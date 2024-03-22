@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x:hidden;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+    margin-right: 55%;
+}
+.nav-link{
+    font-size: large;
+    color: white;
+}
+
+.content-left{
+    background-color: #B73E3E;
+    border-radius: 15px;
+    padding: 25px;
+    color: whitesmoke;
+}
+
+.content-right{
+    text-align: left;
+}
+
+.content-left img{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.card{
+    height: 225px;
+    width: 275px;
+    background-color: #B73E3E;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.footer{
+    text-align:center;
+    height:50px;
+    padding-top:17px;
+    color:white;
+}
+
+#footer{
+    text-align:center;
+    height:50px;
+    padding-top:17px;
+    color:white;
+    position: fixed;
+    top: 93%;
+}
+
+
+@media(max-width:780px) {
+    .content-left{
+        background-color: #B73E3E;
+        border-radius: 15px;
+        color: whitesmoke;
+        margin-left: 5%;
+    }
+    
+    .content-right img{
+        margin: 5% 3%;
+    }
+
+    .card{
+        height: 225px;
+        width: 350px;
+        background-color: #B73E3E;
+        color: white;
+        border-radius: 15px;
+        display: inline-block;
+        margin-left: 5%;
+        margin-bottom: 5%;
+    }
+}
+
+/* Login page */
+
+#login-container{
+    box-shadow: 5px 5px 5px gray;
+    padding: 3%;
+    border-left: 2px solid gray;
+    border-top: 2px solid gray;
+    border-radius: 3%;
+}
+
+/* Donor dashboard page */
+
