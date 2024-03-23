@@ -50,7 +50,14 @@ Patient is the one who is suffering from any disease and he need blood. He can g
 
 # Structure
 - DFD
+
 ![DFD](Media/DFD.png)
+
+- ER Diagram
+
+![er](Media/er.jpg)
+
+
 
 # Interface (UI)
 
@@ -61,4 +68,25 @@ Patient is the one who is suffering from any disease and he need blood. He can g
 ![Admin Login Page](<Media/Admin Login Page.jpg>)
 
 ## Admin Dashboard Page
-![Admin Dashboard Page](<Media/Admin Dashboard Page.png>)
+
+![Admin Dashboard Page](<Media/Admin Dashboard Page.jpg>)
+
+## Donors Page
+
+![Donors Page](<Media/Donors Page.jpg>)
+
+## Donor Dashboard
+
+![Donor Dashboard](<Media/Donor Dashboard.jpg>)
+
+## Donate Blood Page
+
+![Donate Blood Page](<Media/Donate Blood Page.jpg>)
+
+## Request Blood Page
+
+![Request Blood Page](<Media/Request Blood Page.jpg>)
+
+## Email Notification
+
+![Email Notification](<Media/Email Notification.jpg>)
